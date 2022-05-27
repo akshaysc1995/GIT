@@ -9,12 +9,12 @@ ass Date{
 						        this.year = year;
 							    }
 
-			    public String toString() {
-				            return (day +" "+month+" "+year);
+			    public String toString() 
+				            return (day +"pqr "+month+" "+year);
 					        }
 }
 public class Program {
-	    public static void main(String[] args) {
+	    public static void main(String[] {
 		            Date date = null; //new Date(22,03,1996)
 			            System.out.println("abc"date.toString());
 				        }
